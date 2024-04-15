@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f2f2f2;
+    color: #020202;
+  }
+  
+  header {
+    background-color: #993399;
+    padding: 20px 0;
+  }
+  
+  .head h1 {
+    color: #020202;
+  }
+  
+  .menu {
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #993399;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    position: auto;
+    bottom: 0;
+    width: 100%;
+    background-color: #993399;
+    padding: 10px 0;
+    margin-top: 80px;
+  }
+  
+  .btn-primary {
+    background-color: #993399;
+    border-color: #993399;
+    color: white;
+  }
+  
+  .btn-secondary {
+    background-color: #993399;
+    border-color:#993399;
+  }
+  
+  .btn-primary:hover,
+  .btn-primary:focus {
+    background-color: #ccc;
+    border-color: #ccc;
+  }
+  
+  .btn-secondary:hover,
+  .btn-secondary:focus {
+    background-color: #666;
+    border-color: #666;
+  }
+  
+  .card {
+    background-color: rgb(252, 251, 253);
+    color: rgb(2, 2, 2);
+  }
+  
+  .logo {
+    border-radius: 40px;
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+  }
+  
+  .text-center {
+    color: #fcfcfc;
+  }
+  
+  .titulom {
+    text-align: center;
+    margin-left: 185px;
+    color: #ffffff;
+  }
+  
+  .nav a {
+    background-color: #666;
+    margin: 11px;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  footer a {
+    color: #5ca9f1;
+  }
+  
